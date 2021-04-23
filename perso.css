@@ -1,0 +1,70 @@
+#left  a {
+    display:inline-block;
+    line-height:50px;
+    text-align:center;
+    background:url(cuisinier.PNG) no-repeat;
+    color:white;
+    text-decoration:none;
+    width: 264px;
+    height: 349px;
+    font-family: monitha;
+    font-size: 32px;
+    
+}
+#left a:hover {
+background:url(fond_noir.jpg) no-repeat;
+}
+
+#right a {
+    display:inline-block;
+    line-height:50px;
+    text-align:center;
+    background:url(livreur.PNG) no-repeat;
+    color:white;
+    text-decoration:none;
+    width: 264px;
+    height: 349px;;
+    font-family: monitha;
+    font-size: 32px;
+    
+}
+#right a:hover {
+background:url(fond_noir.jpg) no-repeat;
+}
+
+ #right_right a {
+    display:inline-block;
+    line-height:50px;
+    text-align:center;
+    background:url(serveur.PNG) no-repeat;
+    color:white;
+    text-decoration:none;
+    width: 264px;
+    height: 349px;
+    font-family: monitha;
+    font-size: 32px;
+    
+}
+#right_right a:hover {
+background:url(fond_noir.jpg) no-repeat;
+}
+
+.all{
+    display: flex;
+}
+#left_left  a {
+    display:inline-block;
+    line-height:50px;
+    text-align:center;
+    background:url(cuisinier.PNG) no-repeat;
+    color:white;
+    text-decoration:none;
+    width: 264px;
+    height: 349px;
+    font-family: monitha;
+    font-size: 32px;
+    
+}
+#left_left a:hover {
+background:url(fond_noir.jpg) no-repeat;
+}
